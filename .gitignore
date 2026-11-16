@@ -1,0 +1,14 @@
+# Local resume sources; the public PDF is tracked in dist/resume.pdf.
+/Resume.txt
+/Lakshmi.Kannikanti_Resume_.pdf
+/dist/resume.txt
+
+# Local tools, temporary outputs, and credentials.
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+tmp/
+.DS_Store
+Thumbs.db
